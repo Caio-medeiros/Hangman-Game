@@ -2,7 +2,7 @@
     print("Welcome to the hangman game!")
     print("****************************")
 
-    secret_word = "Apple".upper()
+    secret_word = "Apple".upper() #you can choose the word here!
    
     guessed_letters = ["_" for letter in secret_word]
 
